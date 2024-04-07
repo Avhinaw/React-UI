@@ -6,7 +6,7 @@ let Header = () =>{
         <>
             <div className="flex justify-between px-10 py-4 bg-indigo-500 text-white">
                 <h1 className="cursor-pointer self-center">
-                    Logo
+                IndigoLearn
                 </h1>
                 <div className="flex gap-20 self-center">
                     <h2 className="cursor-pointer">Home</h2>
